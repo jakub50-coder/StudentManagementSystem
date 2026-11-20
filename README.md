@@ -30,7 +30,6 @@ StudentManagementSystem/
 ├── students.json
 ├── README.md
 └── .gitignore
-```
 
 ### File Descriptions
 - **main.py:** Contains the main menu and application logic. Handles user input and validates student information.
@@ -46,7 +45,7 @@ StudentManagementSystem/
 ### Running the Application
 
 1. Clone the repository:
-
+   https://github.com/jakub50-coder/StudentManagementSystem.git
 2. Navigate to the project directory:
 
    cd StudentManagementSystem
