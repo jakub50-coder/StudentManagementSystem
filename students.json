@@ -1,0 +1,14 @@
+[
+    {
+        "name": "John Smith",
+        "age": 21,
+        "major": "Computer Science",
+        "gpa": 3.85
+    },
+    {
+        "name": "Julia Roberts",
+        "age": 19,
+        "major": "Cyber Security",
+        "gpa": 3.5
+    }
+]
